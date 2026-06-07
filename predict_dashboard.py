@@ -315,4 +315,4 @@ if "Outcome" in df.columns:
 st.markdown("---")
 
 if st.button("⬅ Back to Prediction"):
-    st.switch_page("pages/predict_diabetes.py")
+    st.switch_page("predict_diabetes.py")
