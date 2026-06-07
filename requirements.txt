@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+numpy
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
+reportlab
+datetime
