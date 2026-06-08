@@ -12,7 +12,7 @@ if "logged_in" not in st.session_state:
 
 if not st.session_state["logged_in"]:
     st.warning("⚠️ Please login first to access the system")
-    st.switch_page("pages/login.py")
+    st.switch_page("login.py")
 
 # =====================================================
 # PAGE CONFIG
@@ -29,7 +29,7 @@ st.sidebar.title("👤 Doctor Panel")
 
 if st.sidebar.button("🚪 Logout"):
     st.session_state["logged_in"] = False
-    st.switch_page("pages/login.py")
+    st.switch_page("login.py")
 
 # =====================================================
 # LOAD MODEL
