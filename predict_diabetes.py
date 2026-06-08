@@ -7,13 +7,15 @@ from report import generate_pdf
 # =====================================================
 # 🔐 LOGIN CHECK (IMPORTANT - MUST BE FIRST)
 # =====================================================
+
+# Check login
 if "logged_in" not in st.session_state:
     st.session_state["logged_in"] = False
 
 if not st.session_state["logged_in"]:
     st.warning("⚠️ Please login first to access the system")
-    st.switch_page("login.py")
-
+    st.switch_page("login.py")   # use this if login.py is the main/root file
+    st.stop()
 # =====================================================
 # PAGE CONFIG
 # =====================================================
