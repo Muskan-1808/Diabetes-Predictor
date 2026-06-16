@@ -19,7 +19,9 @@
 #### 6) Diabetes Intelligence Dashboard: Create visualizations of patient records,diabetes risk distribution, and medical observations from CSV data.
 <img width="637" height="852" alt="image" src="https://github.com/user-attachments/assets/f08fcb17-816a-4fcb-824f-3bc28733a3d8" />
 
-<img width="492" height="557" alt="image" src="https://github.com/user-attachments/assets/c28d5243-17f4-4cff-8b7b-0b6fe4611410" />
+<img width="1400" height="550" alt="image" src="https://github.com/user-attachments/assets/9df52eb5-7fe0-4aff-9d31-1f268835fffd" />
+
+<img width="1447" height="611" alt="image" src="https://github.com/user-attachments/assets/2b8b8e35-bb7a-4acb-8f3b-a4b190342cc0" />
 
 #### 7) Testing and Evaluation: Evaluate model performance and ensure accurate , user-friendly healthcare insights.
 
