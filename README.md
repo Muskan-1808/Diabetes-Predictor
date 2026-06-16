@@ -2,6 +2,7 @@
 ### ✨ OBJECTIVE: To develop an AI-powered Diabetes Prediction System that predicts the likelihood of diabetes based on patients' medical parameters using a Decision Tree Clssification machine learning model.The system calculates and displays the diabetes risk probability on a Streamlit web application, helping users and healthcare professionals understand the level of risk along with the final prediction result(Diabetic/Non-Diabetic).The project also aims to provide an intelligent Diabetes Intelligent Dashboard that visualizes patient medical records stored in CSV files through interactive charts and graphs.The dashboard enables analysis of diabetes risk distribution, patient health parameters, and overall observations.Additionally, it supports automated report generation to help doctors access patient insights quickly and make timely data-driven decisions."
 ### ⚙️TOOLS AND TECHNOLOGIES USED:
 <img width="242" height="182" alt="image" src="https://github.com/user-attachments/assets/76e18e80-575d-44e1-bb59-3a90401bffcc" />
+
 ### 📗PROJECT APPROACH:
 #### 1) Data Collection & Preprocessing:Collect diabetes patient data(BMI,Gender,Outcome,Blood Pressure,Glucose,Age,Pregnancies,Insulin and DiabetesPedigreeFunction) ,clean and prepare medical parameters for analysis.
 #### 2) Data Analysis: Perform EDA and visualisation to identify patterns and important factors affecting diabetes risk.
