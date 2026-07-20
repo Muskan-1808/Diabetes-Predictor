@@ -11,18 +11,26 @@
 #### 5)Streamlit Deploymnet: Develop an interactive application for login and for prediction,risk analytics and patient report generation.
 <img width="1607" height="597" alt="image" src="https://github.com/user-attachments/assets/3f507e9c-bfb1-4c79-8306-677a6f6abeef" />
 
-<img width="625" height="842" alt="image" src="https://github.com/user-attachments/assets/33f90b6e-919b-4c7c-9cb6-b4128693e743" />
+<img width="700" height="835" alt="Screenshot 2026-07-21 012947" src="https://github.com/user-attachments/assets/2859e37e-9d88-4bd0-92a8-8b13c9957b00" />
 
-<img width="481" height="261" alt="image" src="https://github.com/user-attachments/assets/08a9bcf2-a2fb-46f2-a373-bee921ad1f60" />
+### PREDICTION RESULT
+<img width="366" height="401" alt="Screenshot 2026-07-21 013130" src="https://github.com/user-attachments/assets/32006e0f-a43d-4058-be5a-4c1b923ec8f5" />
 
-<img width="1022" height="727" alt="image" src="https://github.com/user-attachments/assets/c0af9ec9-42f0-4132-a754-39b0d9b2128b" />
+
+<img width="597" height="383" alt="Screenshot 2026-07-21 013239" src="https://github.com/user-attachments/assets/168ed4ed-53cf-4341-8240-133ed51167c8" />
+
+
 
 #### 6) Diabetes Intelligence Dashboard: Create visualizations of patient records,diabetes risk distribution, and medical observations from CSV data.
-<img width="637" height="852" alt="image" src="https://github.com/user-attachments/assets/f08fcb17-816a-4fcb-824f-3bc28733a3d8" />
+<img width="1425" height="532" alt="Screenshot 2026-07-21 013600" src="https://github.com/user-attachments/assets/10eb0b28-feb2-4faa-8089-a03a20a2cc17" />
 
-<img width="1400" height="550" alt="image" src="https://github.com/user-attachments/assets/9df52eb5-7fe0-4aff-9d31-1f268835fffd" />
+<img width="1453" height="482" alt="Screenshot 2026-07-21 013646" src="https://github.com/user-attachments/assets/22272931-bbd8-482a-b3fe-a0977e615576" />
 
-<img width="1447" height="611" alt="image" src="https://github.com/user-attachments/assets/2b8b8e35-bb7a-4acb-8f3b-a4b190342cc0" />
+<img width="1420" height="670" alt="Screenshot 2026-07-21 013743" src="https://github.com/user-attachments/assets/0a7fb924-088b-4337-99cd-9700d53694bc" />
+
+<img width="1432" height="585" alt="Screenshot 2026-07-21 013902" src="https://github.com/user-attachments/assets/d1a8189b-6cc3-4102-aa81-8a2f09719592" />
+
+<img width="1435" height="733" alt="Screenshot 2026-07-21 013949" src="https://github.com/user-attachments/assets/6ac69ed7-e9a1-4f94-bb67-563873394fd3" />
 
 #### 7) Testing and Evaluation: Evaluate model performance and ensure accurate , user-friendly healthcare insights.
 
