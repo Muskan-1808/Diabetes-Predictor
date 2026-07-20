@@ -19,6 +19,7 @@
 
 <img width="597" height="383" alt="Screenshot 2026-07-21 013239" src="https://github.com/user-attachments/assets/168ed4ed-53cf-4341-8240-133ed51167c8" />
 
+
 <img width="897" height="712" alt="Screenshot 2026-07-21 013348" src="https://github.com/user-attachments/assets/4c5eef22-c8ef-432e-a5b5-37c111dff1cf" />
 
 #### 6) Diabetes Intelligence Dashboard: Create visualizations of patient records,diabetes risk distribution, and medical observations from CSV data.
